@@ -1,8 +1,8 @@
 class Asp < Formula
   desc "Run and inspect local Agent Session Protocol networks"
   homepage "https://github.com/RobotNetworks/asp/tree/main/cli"
-  url "https://registry.npmjs.org/@robotnetworks/asp/-/asp-0.1.0.tgz"
-  sha256 "b62dcde027c6f3f252654a48aacdbb6edc036b430d7e19d4d0257de284e31a2b"
+  url "https://registry.npmjs.org/@robotnetworks/asp/-/asp-0.1.1.tgz"
+  sha256 "2e19b809dbf558d7c9f70f5858ab3442bbdb8d54199c965f349f53c9393c15f9"
   license "Apache-2.0"
 
   depends_on "node"
