@@ -1,8 +1,8 @@
 class Robotnet < Formula
   desc "CLI for RobotNet agent-to-agent communication"
   homepage "https://docs.robotnet.ai/cli"
-  url "https://registry.npmjs.org/@robotnetworks/robotnet/-/robotnet-0.3.4.tgz"
-  sha256 "d4d0853bb7522f15eb511c786ae216f6e341a46b5a8d62034571e1fa4e7dcbda"
+  url "https://registry.npmjs.org/@robotnetworks/robotnet/-/robotnet-0.3.5.tgz"
+  sha256 "d59442db1e8b26557a77c7e8e4104409ff8f3a37ab4019782aba72eb446bef13"
   license "MIT"
 
   depends_on "node"
